@@ -33,3 +33,11 @@
 13. Install and configure Postgre SQL.
 14. Visit your server IP address.
 15. Enjoy.
+
+
+## Resourses =>
+1. PostgreSQL Documentation
+  https://www.postgresql.org/docs/
+  
+2. Apache Documentation
+  https://httpd.apache.org/docs/
